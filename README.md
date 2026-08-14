@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Javier Acuña
+- Mi nombre es: Javier
 - Mi edad 28 años
 - Vivo en : Buenos Aires
 - Soy de la localidad de : Ituzaingo
