@@ -8,7 +8,7 @@
 - Mi edad 28 años
 - Vivo en : Buenos Aires
 - Soy de la localidad de : Ituzaingo
-![Foto Personal](./IMG-20260627-WA0036.jpg)
+![Foto Personal](./IMG-20260627-WA0036.jpeg)
 
 
 ### Otra Información
